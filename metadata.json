@@ -1,0 +1,6 @@
+{
+  "name": "GateKeeper Vehicle Log & Gate Management System",
+  "description": "Role-based vehicle entry log system with Management input validation, Employee date-based queries, and Admin user registration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
